@@ -22,13 +22,14 @@ I specialize in building clean, efficient, and user friendly HUD/UI using **Unre
 ### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![Javascript](https://img.shields.io/badge/Javascript-yellow)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)
+![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=Javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-yellow)
-![UnrealEngine](https://img.shields.io/badge/UnrealEngine-gray)
+![Blender](https://img.shields.io/badge/Blender-blue?logo=Blender)
+![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-gray?logo=UnrealEngine)
+![PremierePro](https://img.shields.io/badge/AdobePremierePro-darkblue)
 
 ---
 
